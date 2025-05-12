@@ -1,3 +1,7 @@
+# Background Information
+
+This is a StateMachineAI that I created inside a class over the course of around 1 month. It was done with the assistance of the professor and template they provided. I worked closely with a team to create this.
+
 # c-plus-plus-template
 
 git clone --recursive https://github.com/EricWRogers/c-plus-plus-template.git
